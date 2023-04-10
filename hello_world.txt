@@ -1,1 +1,2 @@
 just some random text
+trying to change git commit message
